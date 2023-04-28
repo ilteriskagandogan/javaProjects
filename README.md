@@ -5,3 +5,4 @@
 * Dik Üçgende Hipotenüs Bulan Program
 * Dairenin Alanını ve Çevresini Hesaplayan Program
 * Vücut Kitle İndeksi Hesaplama
+* Manav Kasa Programı

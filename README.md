@@ -8,3 +8,4 @@
 * Manav Kasa Programı
 * Hesap Makinesi
 * Kullanıcı Girişi
+* Sınıfı Geçme Durumu

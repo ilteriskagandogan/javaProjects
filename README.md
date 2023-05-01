@@ -10,3 +10,4 @@
 * Kullanıcı Girişi
 * Sınıfı Geçme Durumu
 * Hava Sıcaklığına Göre Etkinlik Önerme
+* Sayıları Büyükten Küçüğe Sıralama
